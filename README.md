@@ -1,0 +1,1 @@
+Random NixOS configuration fragments
